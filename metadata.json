@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Smart Inventory Sorter",
+  "description": "A web-based visualizer for a C++ inventory sorting system, demonstrating sorting by price with name tie-breaking for faster billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
